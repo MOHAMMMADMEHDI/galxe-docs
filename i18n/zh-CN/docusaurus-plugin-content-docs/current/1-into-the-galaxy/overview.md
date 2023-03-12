@@ -8,7 +8,7 @@ slug: /
 
 Galxe is the largest Web3 credential data network in the world. Built on open and collaborative infrastructure, Galxe helps Web3 developers and projects leverage credential data to build better products and communities. At the same time, data curators are rewarded when credentials are used in Galaxy’s Application Modules, Credential Oracle Engine, and Credential API.
 
-ماموریت ما   
+我们的目标  
 
 At Galxe, we are building the infrastructure to power an open and collaborative credential data network. We help Web3 developers leverage credential data to build better products and communities. At the same time, data curators contribute to our credential data network while earning income once the data is utilized.
 
